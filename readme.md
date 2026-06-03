@@ -1,0 +1,1 @@
+Learning about learning model can be used in the finance to predic the prices in the market.
